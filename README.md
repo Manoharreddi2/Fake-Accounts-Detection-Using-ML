@@ -1,4 +1,4 @@
-# Fake Account Detection Using Machine Learning and Data Science
+# Fake Account Detection Using Machine Learning
 
 This project uses an Artificial Neural Network (ANN) to classify social network profiles as **Fake** or **Genuine** based on user-provided dataset features. The application provides an easy-to-use **Graphical User Interface (GUI)** built with **Tkinter**, allowing users to upload datasets, preprocess data, train an ANN model, visualize training accuracy and loss, and predict new profile categories.
 
